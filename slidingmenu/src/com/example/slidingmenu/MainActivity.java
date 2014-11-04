@@ -19,7 +19,7 @@ public class MainActivity extends SlidingFragmentActivity implements OnClickList
 	private OneFragment mOneFragment;
 	private TwoFragment twoFragment;
 	private Button one,two;
-	
+//	?sadsa
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
